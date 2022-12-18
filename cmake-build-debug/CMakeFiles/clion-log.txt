@@ -1,0 +1,12 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/ahmad/CLionProjects/SnakeGame -B /Users/ahmad/CLionProjects/SnakeGame/cmake-build-debug
+
+-- CMAKE_BINARY_DIR: /Users/ahmad/CLionProjects/SnakeGame/cmake-build-debug
+-- CMAKE_SOURCE_DIR: /Users/ahmad/CLionProjects/SnakeGame
+-- CMAKE_COMMAND: /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
+-- CMAKE_VERSION: 3.23.2
+-- CMAKE_C_COMPILER: /Library/Developer/CommandLineTools/usr/bin/cc
+-- CMAKE_PROJECT_NAME: SnakeGame
+-- CMAKE_FINDCMAKE: /Users/ahmad/CLionProjects/SnakeGame/CMAKE
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ahmad/CLionProjects/SnakeGame/cmake-build-debug
