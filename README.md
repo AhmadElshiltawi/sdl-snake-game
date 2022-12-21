@@ -6,10 +6,10 @@ The purpose of this project is to recreate the classic Snake Game using C++'s SD
 # Controls
 
 | Key  | Action |
-| --- | --- |
-| UP  | Move snake uo  |
-| DOWN  | Move snake down  |
-| LEFT  | Move snake left  |
-| RIGHT  | Move snake right  |
-| SPACE  | Restart game  |
-| ESCAPE  | Close game  |
+| :---: | :---: |
+| Up  | Move snake uo  |
+| Down  | Move snake down  |
+| Left  | Move snake left  |
+| Right  | Move snake right  |
+| Space  | Restart game  |
+| Escape  | Close game  |
