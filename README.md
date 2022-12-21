@@ -13,3 +13,7 @@ The purpose of this project is to recreate the classic Snake Game using C++'s SD
 | Right  | Move snake right  |
 | Space  | Restart game  |
 | Escape  | Close game  |
+
+# Installation
+
+The project was created using IntelliJ's Clion which uses CMake. Preferably downlaod and run the project using CLion. Otherwise, Go to the following directory `Build/bin` and then run the executable.
