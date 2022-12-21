@@ -21,3 +21,4 @@ The project was created using IntelliJ's Clion which uses CMake. Preferably down
 Downloading [SDL2](https://www.libsdl.org) is required.
 
 # Showcase
+![](https://github.com/AhmadElshiltawi/SnakeGame/blob/main/Documents/showcase.gif)
