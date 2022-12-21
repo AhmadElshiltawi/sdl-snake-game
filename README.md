@@ -18,4 +18,4 @@ The purpose of this project is to recreate the classic Snake Game using C++'s SD
 
 The project was created using IntelliJ's Clion which uses CMake. Preferably downlaod and run the project using CLion. Otherwise, Go to the following directory `Build/bin` and then run the executable.
 
-Downloading (SDL2)[https://www.libsdl.org] is required.
+Downloading [SDL2](https://www.libsdl.org) is required.
