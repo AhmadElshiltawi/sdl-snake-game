@@ -7,7 +7,7 @@ The purpose of this project is to recreate the classic Snake Game using C++'s SD
 
 | Key  | Action |
 | :---: | :---: |
-| Up  | Move snake uo  |
+| Up  | Move snake up  |
 | Down  | Move snake down  |
 | Left  | Move snake left  |
 | Right  | Move snake right  |
